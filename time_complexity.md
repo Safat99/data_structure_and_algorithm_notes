@@ -34,3 +34,5 @@ for i in range(n):
 ```
 
 Ekhane amar proti step e 2 bar operation kora lagse….kajei etare ami O(n^2) bolbo..jehetu n ejonne etar n^2 … jodi n er jaygay kono ekta definite value like 3 thakto..tahole tokhoh etare ar O(n^2) boltam na.. Tokhon O(n) hoto..
+
+![graph pic](graph.png)
