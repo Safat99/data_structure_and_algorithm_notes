@@ -36,3 +36,11 @@ for i in range(n):
 Ekhane amar proti step e 2 bar operation kora lagse….kajei etare ami O(n^2) bolbo..jehetu n ejonne etar n^2 … jodi n er jaygay kono ekta definite value like 3 thakto..tahole tokhoh etare ar O(n^2) boltam na.. Tokhon O(n) hoto..
 
 ![graph pic](graph.png)
+<br><br>
+# vdo 2 (more time_complexity)
+
+Arekta example jekhane ekta program er frst part e ekta nested for loop wala problem jekhane time complexity O(n^2) ar porer portion e ekta for loop jekhane O(n) … total problem er time complexity hobe O(n^2 + n).. Bt jehetu n square n er theke significantly boro … tai ekhane n ke negligible dhora jay
+
+* Ei typer boro boro hole jeta maximum setar khetreo maximum borotare count korte hobe
+O(n! + n3 + n) etar khetre shobcheye powerful !n kajei ekhane O(n!) count hobe
+* Polynomial er khetre order of biggest ta count hobe
