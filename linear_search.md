@@ -1,4 +1,5 @@
- Library te boi khujar example… khujar jonne amader ek dhar theke shob gula ekta ekta kore search kore kore khujtesei… etai linear search..
+## Linear Search(VDO 5)
+Library te boi khujar example… khujar jonne amader ek dhar theke shob gula ekta ekta kore search kore kore khujtesei… etai linear search..
 Array shikhlei linear search algorithm shikha hoye jawa hoy
 
 Frst example> >>
