@@ -49,16 +49,16 @@ etar time complexity log2(n)=5(4.something ... bt ceil value nite hobe)...suppos
 ```
 a = [1,2,3,4,8,5,6]
 a.sort()
-n = int(input())
+n = len(a)
 x = int('desired number')
 left_index, right_index = 0, n-1
 while(left_index <= right_index):
-    mid = left_index + right_index //2
-    if a[mid] == x:
-        return mid, True
-    if a[mid] < x:
-        left_index = mid + 1
-    else:
-        right_index = mid - 1
+	mid = (left_index + right_index) //2
+	if a[mid] == x:
+		return mid, True
+	if a[mid] < x:
+		left_index = mid + 1
+	else:
+		right_index = mid - 1
 return None
 ```
