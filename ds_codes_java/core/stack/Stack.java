@@ -1,4 +1,4 @@
-package core;
+package data_structure_and_algorithm_notes.ds_codes_java.core.stack;
 
 import java.util.Arrays;
 

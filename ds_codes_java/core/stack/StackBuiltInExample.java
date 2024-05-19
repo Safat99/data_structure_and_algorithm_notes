@@ -1,4 +1,4 @@
-package core;
+package data_structure_and_algorithm_notes.ds_codes_java.core.stack;
 
 import java.util.Stack;
 
@@ -17,5 +17,6 @@ public class StackBuiltInExample {
         System.out.println(myStack.peek());
 
         System.out.println(myStack.size());
+        System.out.println(myStack.pop());
     }
 }
